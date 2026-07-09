@@ -111,7 +111,7 @@ Successfully verified:
 
 ## Related Screenshots
 
-- ../screenshots/03-active-directory-users-and-computers.png
+- ![Active Directory Users and Computers](../screenshots/03-active-directory-users-and-computers.png)
 - Organizational Units
 - Security Groups
 - Client Domain Login
