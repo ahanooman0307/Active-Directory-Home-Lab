@@ -111,7 +111,7 @@ Successfully verified:
 
 ## Related Screenshots
 
-- ../screenshot/-01-virtualbox-overview.png
+- ../screenshots/03-active-directory-users-and-computers.png
 - Organizational Units
 - Security Groups
 - Client Domain Login
