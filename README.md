@@ -27,11 +27,11 @@ The environment includes:
 
 ## Network Diagram
 
-![Network Diagram](architecture/network-diagram.png)
+![Network Diagram](architecture/Lab-Network-Diagram.png)
 
 ## Virtual Machine Layout
 
-![VM Layout](architecture/vm-layout.png)
+![VM Layout](architecture/VM-Layout.png)
 
 ---
 
